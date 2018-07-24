@@ -1,7 +1,7 @@
 Package: pro.relative.nomorenctime
 Name: NoMoreNCTime
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Get rid of the time and date in the Today view
 Maintainer: Relative
